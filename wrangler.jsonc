@@ -1,0 +1,14 @@
+{
+  "name": "nuc7-auth-bridge",
+  "main": "auth-bridge.js",
+  "compatibility_date": "2024-04-03",
+  "kv_namespaces": [
+    {
+      "binding": "KV_BINDING",
+      "id": "0dd27f8bcc504a51b5c8bfde19db00d9"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
